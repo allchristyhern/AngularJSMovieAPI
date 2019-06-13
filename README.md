@@ -7,8 +7,8 @@ API Documentation
   https://developers.themoviedb.org/3/getting-started/json-and-jsonp
   
   .js file to communicate with api
-      movie service
-      api key
-      image path
-      movie resource url
-      results
+     📎 movie service
+     📎 api key
+     📎 image path
+     📎 movie resource url
+     📎 results
