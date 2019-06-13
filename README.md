@@ -1,4 +1,5 @@
 # AngularJSMovieAPI
+API url: https://www.themoviedb.org/
 API Documentation
   https://developers.themoviedb.org/3/getting-started/introduction
 
