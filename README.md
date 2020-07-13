@@ -1,3 +1,7 @@
+Web application that utilizes AngularJs to retrieve movies.
+It displays the list of popular, highest revenue and details of each.
+
+
 Movie API
   API url: https://www.themoviedb.org/
    
